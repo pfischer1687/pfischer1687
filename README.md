@@ -36,4 +36,6 @@ Research experience writing multi-threaded simulations in C for a high performan
 
 ### Badges
 <b>My GitHub Stats</b>
+<p align="left">   
 <a href="http://www.github.com/pfischer1687"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pfischer1687&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ </p>
