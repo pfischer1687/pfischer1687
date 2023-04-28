@@ -12,7 +12,7 @@ Research experience writing multi-threaded simulations in C for a high performan
 *   🧠  Learning about natural language processing, embedded software, device drivers, and statistics
 *   🤝  I'm open to collaborating on interesting projects
 *   📚  Currently reading Option Volatility & Pricing by Sheldon Natenberg
-*   ⚡  I also love classical music, playing drums, and golfing
+*   ⚡  I also love classical music, playing drums, and golf
 
 ### Skills 
 <p align="left">
