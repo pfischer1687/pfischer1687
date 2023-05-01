@@ -11,7 +11,7 @@ Research experience writing multi-threaded simulations in C for a high performan
 *   🚀  See my latest project at [Mean-Variance Analyzer](https://mvanalyzer.dev/)
 *   🧠  Learning about natural language processing, embedded software, and quantum computing
 *   🤝  I'm open to collaborating on interesting projects
-*   📚  Currently reading: Option Volatility & Pricing by Sheldon Natenberg, Quantum Computation and Quantum Information by by Michael A. Nielsen and Isaac L. Chuang
+*   📚  Currently reading: Option Volatility & Pricing by Sheldon Natenberg, Quantum Computation and Quantum Information by Michael A. Nielsen and Isaac L. Chuang
 *   ⚡  I also love classical music, playing drums, and golf
 
 ### Skills 
