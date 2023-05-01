@@ -9,9 +9,9 @@ Research experience writing multi-threaded simulations in C for a high performan
 *   🖥️  See my portfolio at [paulfischer.dev](https://paulfischer.dev/)
 *   ✉️  You can contact me at [paulfischerdev@gmail.com](mailto:paulfischerdev@gmail.com)
 *   🚀  See my latest project at [Mean-Variance Analyzer](https://mvanalyzer.dev/)
-*   🧠  Learning about natural language processing, embedded software, device drivers, and statistics
+*   🧠  Learning about natural language processing, embedded software, and quantum computing
 *   🤝  I'm open to collaborating on interesting projects
-*   📚  Currently reading Option Volatility & Pricing by Sheldon Natenberg
+*   📚  Currently reading: Option Volatility & Pricing by Sheldon Natenberg, Quantum Computation and Quantum Information by by Michael A. Nielsen and Isaac L. Chuang
 *   ⚡  I also love classical music, playing drums, and golf
 
 ### Skills 
