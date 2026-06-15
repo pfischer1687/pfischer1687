@@ -9,13 +9,14 @@ I am a software engineer with experience building aerospace software systems, fu
 *   🖥️  See my portfolio at [paulfischer.dev](https://paulfischer.dev/)
 *   ✉️  You can contact me at [paulfischerdev@gmail.com](mailto:paulfischerdev@gmail.com)
 *   🚀  Recent project: [RTOS-based embedded firmware for real-time IMU processing and step detection on STM32](https://github.com/pfischer1687/rtos-pedometer)
-*   🧠  Building and exploring embedded systems, real-time software, and sensor-driven computing systems
-*   📡  Interested in signal processing, time-series modeling, and physics-informed computation
-*   🤝  Open to collaborating on systems, simulation, and applied ML projects
+*   🧠  Building software across aerospace infrastructure, simulation tooling, full-stack applications, and embedded systems
+*   📡  Interested in modeling & simulation, machine learning, signal processing, and data-driven engineering systems
+*   🔧  Experience with Python, Rust, SQL, React/TypeScript, Linux, and scientific computing workflows
+*   🤝  Open to collaborating on software, simulation, and data-intensive engineering projects
 *   📚  Currently studying:
-        - Embedded systems and real-time software design
-        - Signal processing and time-series analysis
-        - Quantum computing and computational physics foundations
+    * Embedded systems and real-time software design
+    * Signal processing and time-series methods
+    * Advanced topics in computational physics
 *   ⚡  I also love classical music, playing drums, and golf
 
 ### Skills 
