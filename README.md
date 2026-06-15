@@ -1,17 +1,21 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Paul. Welcome to my profile
 ====================================================================================================================================
 
-Software Engineer | Master's Degree in Computational Physics
+Software Engineer | Aerospace Software, Full-Stack Applications & Simulation Tooling | Rust, Python, C++, React | M.S. Computational Physics
 --------------------------
 
-Research experience writing multi-threaded simulations in C for a high performance computing (HPC) cluster and leveraging Python for data analysis. Passionate about solving complex optimization problems, writing readable, well-tested code, and being a strong team player. Excited to continue learning more about the latest trends in full-stack development!
+I am a software engineer with experience building aerospace software systems, full-stack applications, and simulation tooling. My work has spanned deployment and configuration management systems for vehicle software, enabling reliable software release and updates for operators running live hot fire tests, as well as full-stack tooling (Python/FastAPI/SQL, Rust/Axum, React/TypeScript) and simulation infrastructure supporting hardware-in-the-loop (HITL) and hardware-out-of-the-loop (HOOTL) testing. I hold an M.S. in Computational Physics where I specialized in Monte Carlo simulation on high-performance computing (HPC) clusters and numerical methods for dynamical physical system modeling.
 
 *   🖥️  See my portfolio at [paulfischer.dev](https://paulfischer.dev/)
 *   ✉️  You can contact me at [paulfischerdev@gmail.com](mailto:paulfischerdev@gmail.com)
-*   🚀  See my latest project at [Mean-Variance Analyzer](https://mvanalyzer.dev/)
-*   🧠  Learning about natural language processing, embedded software, and quantum computing
-*   🤝  I'm open to collaborating on interesting projects
-*   📚  Currently reading: Option Volatility & Pricing by Sheldon Natenberg, Quantum Computation and Quantum Information by Michael A. Nielsen and Isaac L. Chuang
+*   🚀  Recent project: [RTOS-based embedded firmware for real-time IMU processing and step detection on STM32](https://github.com/pfischer1687/rtos-pedometer)
+*   🧠  Building and exploring embedded systems, real-time software, and sensor-driven computing systems
+*   📡  Interested in signal processing, time-series modeling, and physics-informed computation
+*   🤝  Open to collaborating on systems, simulation, and applied ML projects
+*   📚  Currently studying:
+        - Embedded systems and real-time software design
+        - Signal processing and time-series analysis
+        - Quantum computing and computational physics foundations
 *   ⚡  I also love classical music, playing drums, and golf
 
 ### Skills 
@@ -31,7 +35,6 @@ Research experience writing multi-threaded simulations in C for a high performan
 <p align="left">                       
 <a href="https://www.github.com/pfischer1687" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                        
 <a href="https://www.linkedin.com/in/paul-fischer1687" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                    
-<a href="https://twitter.com/PaulFis43236408" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
